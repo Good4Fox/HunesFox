@@ -1,3 +1,5 @@
+# Privacy policy
+
 <details>
    <summary>Русский</summary>
 
