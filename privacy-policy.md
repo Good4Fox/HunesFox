@@ -92,7 +92,7 @@
 
 # Privacy Policy
 
-Last updated: [date]
+Last updated: 15.12.2024
 
 ## Introduction
 We respect your privacy and are committed to protecting any data collected by our Discord bot. This privacy policy explains what data is collected, how it is used, and how we protect your information.
